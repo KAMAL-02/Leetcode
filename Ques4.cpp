@@ -20,12 +20,12 @@
         while(j<n){
             arr.push_back(nums2[j++]);
         }
-        int x = ()m + n) ;
+        int x = (m + n) ;
         if(x%2 == 1){
             return arr[x/2] ;
         }
         else{
-            return (double)((double)(arr[x/2]) + (double)(arr[x/2 - 1]));
+            return (double)((double)(arr[x/2]) + (double)(arr[x/2 - 1]))/2;
         }
         
         
