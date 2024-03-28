@@ -1,4 +1,4 @@
-//1103
+//1011
 class Solution {
     int findArrSum(vector<int>& A, int N){
         int sum = 0;
